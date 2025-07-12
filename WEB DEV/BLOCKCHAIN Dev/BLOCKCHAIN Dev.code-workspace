@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../3 css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "3 css"
+	}
+}
