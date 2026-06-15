@@ -1,0 +1,3 @@
+Hello, this is a sample text for DNA encoding!
+This text will be converted into a DNA sequence using the encoding system.
+The encoding process will transform this text into A, T, C, and G nucleotides. 
